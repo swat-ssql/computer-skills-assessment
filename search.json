@@ -1,10 +1,50 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computer Skills Assessment",
+    "section": "",
+    "text": "Introduction\nThis assessment is designed to briefly assess your computer skills. As our computing devices have become more sophisticated, many core computing skills as as keyboard shortcuts, file management, and navigating sections in a document have become less familiar. Yet these skills streamline all work on a computer. They also open the door to more advanced computing, such as complex research projects, coding, and quantitative analyses.\nThe assessment does not comprehensively test your skills. Instead, it quickly spot checks them. If any of the tasks within a section are unfamiliar, you are likely missing other related skills as well. If so, practice a more comprehensive set of computer skills in the tutorials.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#guidelines",
+    "href": "index.html#guidelines",
+    "title": "Computer Skills Assessment",
+    "section": "Guidelines",
+    "text": "Guidelines\nThe assessment is modular. Each section can be completed independently in a few minutes. It should take around 10 minutes to complete in full.\nThe assessment is a spot check of your skills. To test yourself fairly, do not look through the tasks before starting them.\nThere are two ways to complete the assessment.\n\nWork with each section online. Copy-paste relevant sections into a Word or Google Doc.\nDownload the Word version of this assessment. From there, you can complete each section in Google Docs or Microsoft Word. This allows you to\n\nsave your work and\navoid rote copy-pasting text into a new Word document or Google Doc.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#tutorials",
+    "href": "index.html#tutorials",
+    "title": "Computer Skills Assessment",
+    "section": "Tutorials",
+    "text": "Tutorials\nYou can find tutorials on computer skills at https://swat-ssql.github.io/computer-skills-tutorials.\n\nIf you are confident in your skills for any or all sections, complete the relevant section(s) of this assessment without the tutorials. If you complete it easily, congratulations! You likely know most of the skills in each completed section.\nIf you are not confident in your skills, complete the tutorials first.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#theory-and-practice",
+    "href": "index.html#theory-and-practice",
+    "title": "Computer Skills Assessment",
+    "section": "Theory and Practice",
+    "text": "Theory and Practice\nIf you are unable to complete the tasks, don’t fret! Just like learning the piano, you need both theory and practice.\n\nTheory: Work through the tutorials at https://swat-ssql.github.io/computer-skills-tutorials. You can also Google topics such as “computer shortcuts,” “file management,” and “navigation pane” to find additional tips and tricks.\nPractice: Spend time practicing the skills. Play Minesweeper and Solitaire on your computer.\n\nCome back to the assessment once you feel prepared.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
     "objectID": "mouse_trackpad.html",
     "href": "mouse_trackpad.html",
     "title": "1  Mouse/Trackpad Skills (timed)",
     "section": "",
-    "text": "Tasks\nTry these tasks again with only your keyboard. As with most tasks, these are faster with a keyboard. They can be completed 10 seconds or less.",
+    "text": "Tasks\nTry these tasks again with only your keyboard. As with most tasks, these are faster with a keyboard. They can be completed 10 seconds or less.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Mouse/Trackpad Skills (timed)</span>"
     ]
@@ -20,23 +60,13 @@
     ]
   },
   {
-    "objectID": "document_navigation.html",
-    "href": "document_navigation.html",
-    "title": "4  Organization within a Document (untimed)",
+    "objectID": "keyboard.html",
+    "href": "keyboard.html",
+    "title": "2  Keyboard Skills (timed)",
     "section": "",
-    "text": "Tasks",
+    "text": "Task\nStart with your cursor blinking at the end of this sentence then take your hand off your mouse/trackpad for the entirety of the task.\nHighlight this sentence, copy it, and paste it 3x below.\nSelect and bold one of the copied sentences above.\nSelect and italicize one of the copied sentences above.\nSelect and bold three words in this sentence.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Organization within a Document (untimed)</span>"
-    ]
-  },
-  {
-    "objectID": "document_navigation.html#tasks",
-    "href": "document_navigation.html#tasks",
-    "title": "4  Organization within a Document (untimed)",
-    "section": "",
-    "text": "If you cannot see a navigation pane in the left hand panel of your Word document or Google Doc, change the settings so you can see the outline.\nUsing only your keyboard, create a heading in your document and the navigation pane.\nUsing only your keyboard, remove a heading that appears in the outline without changing any visible text in the document.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Organization within a Document (untimed)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Keyboard Skills (timed)</span>"
     ]
   },
   {
@@ -57,6 +87,26 @@
     "text": "In your Finder (Mac) or File Explorer (PC), create a new folder using only your keyboard.\nDo the following without using the context menu (right click). Deselect the folder. Reselect it. Now access the renaming function using your keyboard or mouse/trackpad. Use your keyboard to rename the folder “random name.”\nWith only your keyboard, open a new Finder (Mac) or File Explorer (PC) window.\nVerify\n\nyou have a logical folder structure. If you are a student or faculty, it may resemble this one. \nyour files are mostly in reasonable locations. They should be in your “Documents” folder unless you have a strong reason to keep them elsewhere. They should not live in your “Downloads” folder.\nyour most commonly accessed folders are in your Quick access/Favorites menu.\n\n\n\n\n\n\n\n\n\n\n\nMac\n\n\n\n\n\n\n\nPC",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Folder and File Management (untimed)</span>"
+    ]
+  },
+  {
+    "objectID": "document_navigation.html",
+    "href": "document_navigation.html",
+    "title": "4  Organization within a Document (untimed)",
+    "section": "",
+    "text": "Tasks",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Organization within a Document (untimed)</span>"
+    ]
+  },
+  {
+    "objectID": "document_navigation.html#tasks",
+    "href": "document_navigation.html#tasks",
+    "title": "4  Organization within a Document (untimed)",
+    "section": "",
+    "text": "If you cannot see a navigation pane in the left hand panel of your Word document or Google Doc, change the settings so you can see the outline.\nUsing only your keyboard, create a heading in your document and the navigation pane.\nUsing only your keyboard, remove a heading that appears in the outline without changing any visible text in the document.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Organization within a Document (untimed)</span>"
     ]
   }
 ]
