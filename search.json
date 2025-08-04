@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "College Computer Skills Assessment",
     "section": "",
-    "text": "Introduction\nThis assessment should take around 10-20 minutes to complete in full.\nThe assessment is designed to briefly assess some core college level and above computer skills: mouse skills, keyboard shortcuts, file and folder management, and organization within a document. As our computing devices have become more sophisticated, many of these skills have become less familiar. Yet these skills streamline all work on a computer. They also open the door to more advanced computing such as complex research projects, coding, and quantitative analyses.\nThe assessment does not comprehensively test your skills. Instead, it quickly spot checks them. If any of the tasks within a section are unfamiliar, you are likely missing other related skills as well. If so, practice a more comprehensive set of computer skills in the tutorials.\nDepending on your screen size, links to each section of the assessment will appear either in the left hand navigation panel or from the list icon at the top left of the screen. A link the next section is also included at the bottom right of each section.",
+    "text": "Introduction\nThis assessment should take around 10-20 minutes to complete in full.\nThe assessment is designed to briefly assess your efficiency with core college level computer skills: mouse skills, keyboard shortcuts, file and folder management, and organization within a document. As our computing devices have become more sophisticated, many of these skills have become less familiar. Yet these skills streamline all work on a computer. They also open the door to more advanced computing such as complex research projects, coding, and quantitative analyses.\nThe assessment does not comprehensively test your efficiency. Instead, it quickly spot checks it. If any of the tasks within a section are unfamiliar, you are likely missing other related skills as well. If so, practice a more comprehensive set of computer skills in the tutorials.\nDepending on your screen size, links to each section of the assessment will appear either in the left hand navigation panel or from the list icon at the top left of the screen. A link the next section is also included at the bottom right of each section.",
     "crumbs": [
       "Introduction"
     ]
@@ -44,7 +44,7 @@
     "href": "mouse_trackpad.html",
     "title": "1  Mouse/Trackpad Skills (timed)",
     "section": "",
-    "text": "Tasks\nTry these tasks again with only your keyboard. As with most tasks, these are faster with a keyboard. They can be completed 10 seconds or less.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
+    "text": "Tasks\nRequirements:\nRead the tasks: Take approximately 1 minute to read the following tasks. This is primarily so you do not feel inclined to practice the tasks or refer to external documents before completing the tasks. If any of the tasks feel foreign, return to the tutorials to practice a more comprehensive set of skills.\nPrepare your document: Copy and paste everything below “Tasks” into a Word document, Google Doc, or specialized text editor of your choice. Alternately, download the Word version of the entire assessment and work with this section in a Word document or Google Doc.\nStart your timer: Once you start your timer, you should be able to complete both tasks in less than 30 seconds total.\nTry these tasks again with only your keyboard. As with most tasks, these are faster with a keyboard. They can be completed 10 seconds or less.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Mouse/Trackpad Skills (timed)</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "keyboard.html",
     "title": "2  Keyboard Skills (timed)",
     "section": "",
-    "text": "Task\nStart with your cursor blinking at the end of this sentence then take your hand off your mouse/trackpad for the entirety of the task.\nHighlight this sentence, copy it, and paste it 3x below.\nSelect and bold one of the copied sentences above.\nSelect and italicize one of the copied sentences above.\nSelect and bold three words in this sentence.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
+    "text": "Task\nRequirements:\nRead the task: For a fair assessment of your preexisting knowledge, take approximately 2 minutes to read the task. This is primarily so you do not feel inclined to practice the tasks or refer to external documents before completing the tasks. If any of the tasks feel foreign, return to the tutorials to practice a more comprehensive set of skills.\nPrepare your document: Copy and paste everything below “Tasks” into a Word document or Google Doc. Alternately, download the Word version of the entire assessment and work with this section in a Word document, Google Doc, or specialized text editor of your choice.\nStart your timer: Once you have read the tasks, you should be able to complete all tasks with just your keyboard in less than 30 seconds.\nStart with your cursor blinking at the end of this sentence then take your hand off your mouse/trackpad for the entirety of the task.\nHighlight this sentence, copy it, and paste it 3x below.\nSelect and bold one of the copied sentences above.\nSelect and italicize one of the copied sentences above.\nSelect and bold three words in this sentence.\nRecord how much time you took. If it took longer than 30 seconds, return to the tutorials and practice. If it took less, congratulations! If you have time, see if you can beat your own time.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Keyboard Skills (timed)</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "files_folders.html",
     "title": "3  Folder and File Management (untimed)",
     "section": "",
-    "text": "Tasks",
+    "text": "Tasks\nRequirement: A Mac or PC. Similar principles may apply to a Chromebook.\nRead the tasks: For a fair test of your overall knowledge, do not refer to any external document after you have read the tasks. This assessment spot checks your skills. If any of them feel foreign, return to the tutorials to practice a more comprehensive set of skills.\nPrepare your environment: Open a Finder (Mac) or File Explorer (PC) window on your computer. Resize it so you can see these instructions and your Finder (Mac) or File Explorer (PC) window at the same time.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Folder and File Management (untimed)</span>"
     ]
@@ -94,7 +94,7 @@
     "href": "document_navigation.html",
     "title": "4  Organization within a Document (untimed)",
     "section": "",
-    "text": "Tasks",
+    "text": "Tasks\nRequirements:\nRead the tasks: For a fair test of your overall knowledge, do not refer to any external document after you have read the tasks. If any of the tasks feel foreign, return to the tutorials to practice a more comprehensive set of skills.\nPrepare your document: Open a blank Google Doc or Word document. Resize it so these instructions and your Google Doc or Word document are visible at the same time. Alternately, download the Word version of the entire assessment and work with this section from there.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Organization within a Document (untimed)</span>"
     ]
